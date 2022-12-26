@@ -4,7 +4,7 @@ Some beginner guide to Machine Learning, Artificial Language and Deep Learning N
 ## Table of Contents
 - [ML-AI-DL-Guide](#ml-ai-dl-guide)
   - [Table of Contents](#table-of-contents)
-  - [Machine Learning](#machine-learning)
+  - [Machine Learning/ ML](#machine-learning-ml)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Neural Networks](#neural-networks)
   - [TensorFlow](#tensorflow)
@@ -12,7 +12,7 @@ Some beginner guide to Machine Learning, Artificial Language and Deep Learning N
 ![Subsets](subsets.png)
 
 
-## Machine Learning
+## Machine Learning/ ML
 ```python
 Classical Programming:
 #Data -->
